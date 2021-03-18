@@ -10,4 +10,4 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souto2001)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact" /><br/>
+
