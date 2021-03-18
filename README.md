@@ -6,5 +6,5 @@
 
     🔭 I’m currently Learning Python, Linux and CyberSecurity on INE
     🌱 I’m currently working on a Python Project
-    💬 Ask me about anything on <a href="https://discord.com/channels/@me">Discord</a>
+    💬 Ask me about anything on Discord ( zaaf#6633 )
    
