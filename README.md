@@ -6,4 +6,4 @@
 
     🔭 I’m currently Learning Python, Linux and CyberSecurity on INE
     🌱 I’m currently working on a Python Project
-    💬 Ask me about anything on my https://www.google.com 
+    💬 Ask me about anything on my [Discord](https://google.com)
