@@ -23,7 +23,8 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=souto2001)](https://github.com/anuraghazra/github-readme-stats)
+
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
 
 
 <img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact" /><br/>
