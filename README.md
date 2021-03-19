@@ -24,7 +24,7 @@
 ## &#x1f4c8; My GitHub Stats
 
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=TheYurei&theme=dark&show_icons=true&hide_border=true" />
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=souto2001&theme=dark&show_icons=true&hide_border=true" />
 
 
 <img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact" /><br/>
