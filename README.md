@@ -1,7 +1,7 @@
 ### Hi! I'm Gonçalo Souto 👾
 
 - 🔭 I’m currently working on Python Project
-- 🌱 I’m currently learning Go and IT fundamentals on INE
+- 🌱 I’m currently learning Go
 - 💬 Ask me about anything
 - 📫 How to reach me: Twitter - @souto30295019
 
