@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on ransomware script
 - 🌱 I’m currently learning Go
 - 💬 Ask me about anything
-- 📫 How to reach me: Twitter - @souto30295019
+- 📫 How to reach me: Telegram - @champpopinion
 
 
 ### Languages and Tools:
