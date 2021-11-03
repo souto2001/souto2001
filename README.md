@@ -24,4 +24,5 @@
 
 ## &#x1f4c8; My GitHub Stats
 
-<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact&theme=dark&hide_border=true" /><br/>
+![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=souto2001&show_icons=true&count_private=true&hide_border=true&theme=algolia)
+![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=souto2001&hide_border=true&theme=algolia)
