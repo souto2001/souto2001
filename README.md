@@ -1,7 +1,5 @@
 ### Hi! 👾
 
-- 🔭 I’m currently working on Scripts
-- 🌱 I’m currently learning Assembly
 - 💬 Ask me about anything
 - 📫 How to reach me: Telegram - @champpopinion
 
