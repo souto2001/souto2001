@@ -25,6 +25,11 @@
 <br>
 
 ## &#x1f4c8; My GitHub Stats
+<h3 style="color: #5094F0;">These are my GitHub Stats 👀</h3>
 
-![GitHub Stats](https://github-readme-stats.bernawastaken.vercel.app/api?username=souto2001&show_icons=true&count_private=true&hide_border=true&theme=algolia)
-![Top Langs](https://github-readme-stats.bernawastaken.vercel.app/api/top-langs/?username=souto2001&hide_border=true&theme=algolia)
+<img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souto2001&show_icons=true&hide_border=false&count_private=true" />
+
+
+<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact" /><br/>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souto2001" alt="Gonçalo Souto" /></a> </p>
