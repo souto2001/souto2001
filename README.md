@@ -2,7 +2,6 @@
 
 - 💬 Ask me about anything
 - 📫 How to reach me: Telegram - @champpopinion
-- Learning RUST
 
 ### Languages and Tools:
 
