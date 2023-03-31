@@ -27,7 +27,4 @@
 ## &#x1f4c8; My GitHub Stats
 <h3 style="color: #5094F0;">These are my GitHub Stats 👀</h3>
 
-<img align="left" alt="Esfoliante's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souto2001&show_icons=true&hide_border=false&count_private=true" />
-
-
-<img  style="margin-top: 90px" align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=souto2001&layout=compact"
+<img align="left" alt="Gonçalo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souto2001&show_icons=true&hide_border=false&count_private=true" />
