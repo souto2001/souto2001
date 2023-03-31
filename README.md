@@ -25,6 +25,9 @@
 <br>
 
 ## &#x1f4c8; My GitHub Stats
-<h3 style="color: #5094F0;">These are my GitHub Stats 👀</h3>
-
-<img align="left" alt="Gonçalo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=souto2001&show_icons=true&hide_border=false&count_private=true" />
+<p align="center">
+  <a><img width="42%" src="https://raw.githubusercontent.com/souto2001/summary-cards/master/profile-summary-card-output/vue/0-profile-details.svg"></a>
+  <a><img width="21%" src="https://raw.githubusercontent.com/souto2001/summary-cards/master/profile-summary-card-output/vue/2-most-commit-language.svg"></a>
+  <a><img width="14%" src="https://raw.githubusercontent.com/souto2001/summary-cards/master/profile-summary-card-output/vue/3-stats.svg"></a>
+  
+</p>
