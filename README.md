@@ -1,7 +1,6 @@
 ### Hi!
 
 - 💬 Ask me about anything
-- 📫 How to reach me: Telegram - @champpopinion
 
 ### Languages and Tools:
 
